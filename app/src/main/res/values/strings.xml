@@ -1,12 +1,18 @@
 <resources>
     <string name="app_name">MovieDbAdi</string>
     <string name="action_settings">Settings</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
-
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="api_error_prefix">Error while reading data from api: </string>
+    <string name="no_internet">No internet connection</string>
+    <string name="general_network_error">Cannot connect to server</string>
+    <string name="unknown_error">Unknown error happened</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_movie_details">Details</string>
+    <string name="retry">Retry</string>
+    <string name="overview">Overview</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="loading">Loading …</string>
+    <string name="no_popular_movies">There is no popular movies at this time</string>
+    <string name="no_upcoming_movies">There is no upcoming movies at this time</string>
 </resources>
