@@ -13,6 +13,12 @@ import org.junit.Assert.*
  *
  * See [testing documentation](http://d.android.com/tools/testing).
  */
+/**
+ * Created by Aditya.
+ * Logituit
+ * aditya.rout@logituit.com
+ */
+
 @RunWith(AndroidJUnit4::class)
 class ExampleInstrumentedTest {
     @Test
